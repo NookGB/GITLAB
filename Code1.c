@@ -2,6 +2,6 @@
 
 int main ()
 {
-	int i = 0;
-	printf("I can't hold it anymoree.");
+	int i = 20;
+	printf("I can't hold it anymoreee.");
 }
