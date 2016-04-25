@@ -2,6 +2,6 @@
 
 int main ()
 {
-	int i = 10;
+	int j = 100;
 	printf("I can't hold it anymore.");
 }
